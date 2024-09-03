@@ -1,0 +1,7 @@
+[package]
+name = "sirin"
+description = "An experimental but independent JAOT+JIT compiler infrastructure with functional and parallel goals."
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
